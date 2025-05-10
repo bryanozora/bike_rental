@@ -1,3 +1,9 @@
+## 📚 Academic Context
+
+This project was developed as part of a college assignment at Petra Christian University for the course on Information System Design and Analysis. It demonstrates the practical application of CRUD operations, role-based access, and database-driven web development.
+
+---
+
 # 🚲 Bike Rental Management System
 
 A web-based application designed to streamline the management of electric bike (e-bike) rentals. This system facilitates efficient handling of e-bike stations, rental transactions, and user interactions, providing a seamless experience for both administrators and customers.
